@@ -18,6 +18,10 @@ $ tree
 wget --no-check-certificate -O kcptun.sh https://github.com/kuoruan/shell-scripts/raw/master/kcptun/kcptun.sh
 sh kcptun.sh
 ```
+安装shadowsocks
+```sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ss-go.sh && chmod +x ss-go.sh && bash ss-go.sh
+```
 
 * 帮助信息
 
